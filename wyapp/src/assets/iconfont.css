@@ -1,0 +1,56 @@
+@font-face {font-family: "iconfont";
+  src:url('iconfont.ttf?t=1600246313678') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e7ea";
+}
+
+.icon-icon_home:before {
+  content: "\e602";
+}
+
+.icon-arrowdown:before {
+  content: "\e61a";
+}
+
+.icon-cart:before {
+  content: "\e627";
+}
+
+.icon-drawer:before {
+  content: "\e8c4";
+}
+
+.icon-user:before {
+  content: "\e626";
+}
+
+.icon-weixin:before {
+  content: "\e614";
+}
+
+.icon-img:before {
+  content: "\e617";
+}
+
+.icon-weibo:before {
+  content: "\e608";
+}
+
+.icon-qq:before {
+  content: "\e746";
+}
+
+.icon-hest_of_drawers:before {
+  content: "\eaa1";
+}
+
